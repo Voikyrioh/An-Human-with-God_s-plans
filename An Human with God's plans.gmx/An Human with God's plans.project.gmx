@@ -16,10 +16,14 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\ft_god</font>
+  </fonts>
   <objects name="objects">
     <object>objects\OBJ_Platform_Grass</object>
     <object>objects\OBJ_Platform_Dirt</object>
     <object>objects\obj_test</object>
+    <object>objects\obj_start</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\RM_Tuto</room>
