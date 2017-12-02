@@ -27,6 +27,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\SCRIPT_TextBox.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\ft_god</font>
   </fonts>
@@ -35,8 +38,10 @@
     <object>objects\OBJ_Platform_Dirt</object>
     <object>objects\obj_test</object>
     <object>objects\obj_start</object>
+    <object>objects\OBJ_Main_Manager</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\RM_Menu</room>
     <room>rooms\RM_Tuto</room>
   </rooms>
   <help>
