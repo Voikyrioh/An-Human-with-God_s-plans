@@ -12,9 +12,17 @@
     <sprites name="Plateform">
       <sprite>sprites\SPR_Platform_Dirt</sprite>
       <sprite>sprites\SPR_Platform_Grass</sprite>
+      <sprite>sprites\spr_stair</sprite>
     </sprites>
-    <sprites name="Flower">
-      <sprite>sprites\spr_flower_red</sprite>
+    <sprites name="Props">
+      <sprite>sprites\spr_flower_red_new</sprite>
+      <sprite>sprites\spr_flower_white</sprite>
+      <sprite>sprites\spr_anvil</sprite>
+      <sprite>sprites\spr_ladder</sprite>
+    </sprites>
+    <sprites name="Animals">
+      <sprite>sprites\spr_unicorn</sprite>
+      <sprite>sprites\spr_horse</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
