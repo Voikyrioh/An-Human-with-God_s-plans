@@ -12,49 +12,24 @@
     <sprites name="Plateform">
       <sprite>sprites\SPR_Platform_Dirt</sprite>
       <sprite>sprites\SPR_Platform_Grass</sprite>
-      <sprite>sprites\spr_stair</sprite>
-    </sprites>
-    <sprites name="Props">
-      <sprite>sprites\spr_flower_red_new</sprite>
-      <sprite>sprites\spr_flower_white</sprite>
-      <sprite>sprites\spr_anvil</sprite>
-      <sprite>sprites\spr_ladder</sprite>
-    </sprites>
-    <sprites name="Animals">
-      <sprite>sprites\spr_unicorn</sprite>
-      <sprite>sprites\spr_horse</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-<<<<<<< HEAD
     <scripts name="Player">
       <script>scripts\Player_deplacement.gml</script>
     </scripts>
   </scripts>
-=======
-    <script>scripts\SCRIPT_TextBox.gml</script>
-  </scripts>
-  <fonts name="fonts">
-    <font>fonts\ft_god</font>
-  </fonts>
->>>>>>> c91150e4d22568ffbf40785be741cc7700653195
   <objects name="objects">
     <object>objects\OBJ_Platform_Grass</object>
     <object>objects\OBJ_Platform_Dirt</object>
     <object>objects\obj_test</object>
-<<<<<<< HEAD
     <object>objects\obj_player</object>
     <object>objects\obj_choice_manager</object>
-=======
-    <object>objects\obj_start</object>
-    <object>objects\OBJ_Main_Manager</object>
->>>>>>> c91150e4d22568ffbf40785be741cc7700653195
   </objects>
   <rooms name="rooms">
-    <room>rooms\RM_Menu</room>
-    <room>rooms\RM_Tuto</room>
+    <room>rooms\RM_Tuto99</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
