@@ -16,10 +16,17 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <scripts name="Player">
+      <script>scripts\Player_deplacement.gml</script>
+    </scripts>
+  </scripts>
   <objects name="objects">
     <object>objects\OBJ_Platform_Grass</object>
     <object>objects\OBJ_Platform_Dirt</object>
     <object>objects\obj_test</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_choice_manager</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\RM_Tuto</room>
