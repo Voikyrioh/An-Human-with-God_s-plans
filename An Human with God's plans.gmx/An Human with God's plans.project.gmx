@@ -5,9 +5,19 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\SPR_Platform_Grass</sprite>
+    <sprite>sprites\SPR_Platform_Dirt</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\OBJ_Platform_Grass</object>
+    <object>objects\OBJ_Platform_Dirt</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\RM_Tuto</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
